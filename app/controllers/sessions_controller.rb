@@ -17,9 +17,6 @@ class SessionsController < ApplicationController
       sign_in user
      redirect_to user
    
-#redirect_to :controller => 'animals', :action => 'index'
-    #redirect_to :controller => 'animals', :action => 'show', :id => 1
-
 
     end
   end
