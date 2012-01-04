@@ -1,14 +1,52 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>SbicNaz</title>
-  <%= stylesheet_link_tag    "application" %>
-  <%= javascript_include_tag "application" %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
+   <head>
+     <title><%= title  %></title>
+    <%= render 'layouts/stylesheets' %>
+    <%= javascript_include_tag :application %>
+    <%= javascript_include_tag :csshorizontalmenu %> 
+    <%= javascript_include_tag :slideshowfade %>   
+    <%= csrf_meta_tags %>
 
-<%= yield %>
+   <style>
+       #Slideshow1 img { width:1000px }
+     </style
+  </head>
 
-</body>
+
+  <body>
+    <div class="container">
+      <%= render 'layouts/header' %>
+      <br><br>
+
+<script>
+
+       var imgArray = new Array();
+
+	  imgArray[0]="assets/owl.jpg";
+	  imgArray[1]="assets/tenton.jpg";
+	  imgArray[2]="assets/fox.jpg";
+	  imgArray[3]="assets/blackbird.jpg";
+	  imgArray[4]="assets/robin.jpg";
+	  
+
+       slideshowFade('Slideshow1','',imgArray,20,5000);
+     
+     </script>
+
+
+
+      <section class="round">
+	<% flash.each do |key, value| %>
+          <div class="flash <%= key %>"><%= value %></div>
+        <% end %>
+
+        <%= yield %>
+      </section>
+     <%= render 'layouts/footer' %>
+     <%= debug(params) if Rails.env.development? %>
+
+    </div>
+  </body>
 </html>
+

@@ -1,0 +1,10 @@
+<li>
+ 
+  <%= link_to animal.name, animal %>
+  <% if current_user.admin? %>
+  | <%= link_to "delete", animal, :method => :delete, :confirm => "You sure?",
+                                :title => "Delete #{animal.name}" %>
+  <% end %>
+</li>
+
+

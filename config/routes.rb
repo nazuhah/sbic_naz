@@ -1,4 +1,43 @@
 SbicNaz::Application.routes.draw do
+ 
+
+
+  resources :sessions, :only => [:new, :create, :destroy]
+  resources :animals  
+  resources :users
+
+
+ get "animals/new"
+  get "sessions/new"
+  get "users/new"
+  get "pages/home"
+  get "pages/contact"
+
+
+
+
+  match '/signup',  :to => 'signup#new'
+  match '/binatang', :to => 'animals#new'
+  match '/signin',  :to => 'sessions#new'
+  match '/signout', :to => 'sessions#destroy'
+  match '/contact', :to => 'pages#contact'
+  match '/about',   :to => 'pages#about'
+  match '/help',    :to => 'pages#help'
+  match '/news',    :to => 'pages#news'
+  match '/services',    :to => 'pages#services'
+  match '/enquiry',    :to => 'pages#enquiry'
+  match '/sightings',    :to => 'pages#sightings'
+
+
+
+
+  root :to => 'pages#home'
+
+ 
+
+
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

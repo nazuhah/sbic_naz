@@ -1,0 +1,71 @@
+
+<h1>Add Species</h1>
+
+
+<%= form_for(@animal) do |f| %>
+<table width="500" border="1">
+<tr>
+    <td>Species Name : </td>
+   
+<td colspan="3"><%= f.collection_select :name, SpeciesCode.find(:all), :code, :name, :prompt => "Select a Species" %></td>
+  </tr>
+  <tr>
+    <td>Sex/Stage :</td>
+    <td><%= f.collection_select :sex, SpeciesCode.find(:all), :code, :name, :prompt => "Select a Species" %></td>
+    <td>Abundance (Quantity) :</td>
+    <td><%= f.text_field :abundance %></td>
+  </tr>
+  <tr>
+    <td>Location (Site):</td>
+    <td colspan="3"><%= f.collection_select :location, SpeciesCode.find(:all), :code, :name, :prompt => "Select a Species" %></td>    
+  </tr>
+
+
+  
+  <tr>
+    <td>County :</td>
+    <td><%= f.text_field :county %></td>
+    <td>Grid Reference :</td>
+    <td><%= f.text_field :grid %></td>
+  </tr>
+  <tr>
+    <td>Provenance :</td>
+    <td><%= f.text_field :provenance %></td>
+    <td>Start Date</td>
+    <td><%= f.text_field :startdate %></td>
+  </tr>
+  <tr>
+    <td>Observer :</td>
+    <td><%= f.text_field :observer %></td>
+    <td>Determiner :</td>
+    <td><%= f.text_field :determiner %></td>
+  </tr>
+  <tr>
+    <td>Record type (method) :</td>
+    <td colspan="3"><%= f.text_field :recordtype %></td>
+    </tr>
+  <tr>
+    <td>Reference :</td>
+    <td colspan="3"><%= f.text_field :reference %></td>
+    </tr>
+  </tr>
+  <tr>
+    <td>Comment :</td>
+    <td colspan="3"><%= f.text_field :comment %></td>
+    </tr>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<div><%= f.submit "Save" %>
+</div>
+
+
+
+<% end %>
+

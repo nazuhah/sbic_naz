@@ -1,0 +1,58 @@
+<header>
+ <!--   <%= link_to logo, root_path %>-->
+ 
+ <!-- <nav class="round">
+    <ul>
+      <li><%= link_to "Home", root_path %></li>
+
+      <li><%= link_to "Help", help_path %></li>
+      <li><%= link_to "Sign in", signin_path %></li>
+    </ul>
+  </nav>-->
+
+
+
+<div class="horizontalcssmenu">
+<ul id="cssmenu1">
+
+<% if signed_in? %>
+  <li style="border-left: 1px solid #202020;"><%= link_to "Species", animals_path %></li>
+   <li><%= link_to "Profile", current_user %></li>
+   <li><%= link_to "Sign out", signout_path, :method => :delete %></li>
+ <% else %>
+ <li style="border-left: 1px solid #202020;"> <%= link_to "Home", root_path %></li>
+<li><%= link_to "About Us", about_path %></li>
+<li><%= link_to "Services & Support", services_path %></li>
+<li><%= link_to "News", news_path %></li>
+<li><%= link_to "Enquiry Service", enquiry_path %></li>
+<li><%= link_to "Species Recorder", binatang_path %></li>
+<li><%= link_to "Submit Sightings", sightings_path %></li>
+<li><%= link_to "Contact Us", contact_path %></li>
+<li><%= link_to "Admin", signin_path %></li>
+ <% end %>
+ <!--<li><a href="#">References</a>
+    <ul>
+    <li><a href="http://www.javascriptkit.com/jsref/">JS Reference</a></li>
+    <li><a href="http://www.javascriptkit.com/domref/">DOM Reference</a></li>
+    <li><a href="http://www.javascriptkit.com/dhtmltutors/cssreference.shtml">CSS Reference</a></li>
+    </ul>
+</li>
+<li><%= link_to "Home", root_path %></li>
+<li><a href="#">Resources</a>
+    <ul>
+    <li><a href="http://www.dynamicdrive.com">Dynamic HTML</a></li>
+    <li><a href="http://www.codingforums.com">Coding Forums</a></li>
+    <li><a href="http://www.cssdrive.com">CSS Drive</a></li>
+    <li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
+    <li><a href="http://tools.dynamicdrive.com/imageoptimizer/">Image Optimizer</a></li>
+    <li><a href="http://tools.dynamicdrive.com/favicon/">Favicon Generator</a></li>
+    </ul>
+</li>
+</ul>
+<br style="clear: left;" />
+</div>-->
+
+ <!--<p id="iepara">Rest of content here</p>-->
+
+</header>
+
