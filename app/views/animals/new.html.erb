@@ -7,26 +7,25 @@
 <tr>
     <td>Species Name : </td>
    
-<td colspan="3"><%= f.collection_select :name, SpeciesCode.find(:all), :code, :name, :prompt => "Select a Species" %></td>
+   <td colspan="3"><%= f.collection_select :name, SpeciesCode.find(:all), :name, :name, :prompt => "Select a Species" %></td>
   </tr>
   <tr>
     <td>Sex/Stage :</td>
-    <td><%= f.collection_select :sex, SpeciesCode.find(:all), :code, :name, :prompt => "Select a Species" %></td>
+    <td><%= f.collection_select :sex, SexCode.find(:all), :name, :name, :prompt => "Select Sex/Stage" %></td>
     <td>Abundance (Quantity) :</td>
     <td><%= f.text_field :abundance %></td>
   </tr>
-  <tr>
-    <td>Location (Site):</td>
-    <td colspan="3"><%= f.collection_select :location, SpeciesCode.find(:all), :code, :name, :prompt => "Select a Species" %></td>    
-  </tr>
-
 
   
   <tr>
-    <td>County :</td>
-    <td><%= f.text_field :county %></td>
+    <td>Location :</td>
+    <td><%= f.text_field :location %></td>
     <td>Grid Reference :</td>
     <td><%= f.text_field :grid %></td>
+  </tr>
+  <tr>
+    <td>County :</td>
+    <td colspan="3"><%= f.collection_select :county, CountyCode.find(:all), :name, :name, :prompt => "Select County" %></td>    
   </tr>
   <tr>
     <td>Provenance :</td>

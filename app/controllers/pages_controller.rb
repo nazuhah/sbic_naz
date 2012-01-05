@@ -16,5 +16,23 @@ class PagesController < ApplicationController
     @title = "Help"
   end
 
+ def services
+    @title = "Services & Support"
+  end
+  def news
+    @title = "News"
+  end
+
+ def enquiry
+    @title = "Enquiry Services"
+  end
+
+def sightings
+    @title = "Submit Sightings"
+  end
+
+
+
+
 end
 

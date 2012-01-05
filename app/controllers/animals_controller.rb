@@ -6,7 +6,7 @@ class AnimalsController < ApplicationController
 
   def new
     @animal = Animal.new
-    @title = "Sign up"
+    @title = "Record Species"
   end
 
 def index
