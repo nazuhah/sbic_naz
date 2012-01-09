@@ -1,0 +1,297 @@
+@import "vtip.css";
+@import "dropdown.css";
+@import "tabs-slideshow.css";
+@import "prettyPhoto.css";
+body {
+    background: url("../images/bg.jpg") no-repeat scroll center top #91DD9A;
+    font-family: Arial,Helvetica,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    color: #000000;
+    font-size: 16px;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 980px;
+}
+#topNav {
+    background: url("../images/img_topbrownBar.png") no-repeat scroll center top transparent;
+    padding: 0 0 0 30px;
+}
+#shareMark {
+    float: right;
+    padding: 20px 20px 0 0;
+}
+#leftCol {
+    float: left;
+    margin-left: 20px;
+    width: 620px;
+}
+#leftColContent {
+    background: url("../images/curve-pattern-620.png") repeat-y scroll 0 0 transparent;
+    color: #000000;
+    font-size: 12px;
+    padding: 0 10px;
+}
+#breadcrumb {
+    color: #FFFFFF;
+    font-size: 10px;
+}
+#breadcrumb a {
+    color: #A2A2A2;
+    text-decoration: none;
+}
+#breadcrumb a:hover {
+    text-decoration: underline;
+}
+#rightCol {
+    float: right;
+    margin-right: 20px;
+    width: 310px;
+}
+#fb {
+}
+#fbContent {
+    background: url("../images/curve-pattern-310.png") repeat-y scroll 0 0 transparent;
+    color: #FFFFFF;
+    font-size: 10px;
+    height: 600px;
+    padding: 10px 20px 0;
+}
+#likebox-frame {
+    height: 587px;
+    left: -2px;
+    overflow: hidden;
+    position: relative;
+    top: -1px;
+    width: 270px;
+    z-index: 10;
+}
+#likebox-frame iframe {
+    left: -5px;
+    overflow: hidden;
+    position: relative;
+    top: -1px;
+}
+#cols {
+    float: left;
+    width: 305px;
+}
+#colsContent {
+    background: url("../images/curve-pattern-310.png") repeat-y scroll 0 0 transparent;
+    color: #333333;
+    font-size: 11px;
+    padding: 0 20px;
+}
+table.colsContent {
+    height: 385px;
+}
+#colsContent h1 {
+    font-size: 32px;
+}
+.pressRoom h2 {
+    margin: 0 0 5px;
+}
+.pressRoom a {
+    color: #333333;
+    font-weight: normal;
+}
+.pressRoom a:hover {
+    font-weight: normal;
+    text-decoration: none;
+}
+#newsFlash {
+    clear: both;
+    margin: 10px auto;
+    width: 940px;
+}
+#newsFlashContent {
+    background: url("../images/curve-pattern-940.png") repeat-y scroll 0 0 transparent;
+    color: #666666;
+    font-size: 12px;
+    padding: 0 20px;
+}
+#newsFlashContent a {
+    color: #333333;
+    text-decoration: none;
+}
+#newsFlash2 {
+    clear: both;
+    margin: 0 auto 10px;
+    width: 940px;
+}
+#newsFlashContent {
+    background: url("../images/curve-pattern-940.png") repeat-y scroll 0 0 transparent;
+    color: #666666;
+    font-size: 12px;
+    padding: 0 20px;
+}
+#newsFlashContent a {
+    color: #333333;
+    text-decoration: none;
+}
+#highlights {
+    clear: both;
+    margin: 0 auto 10px;
+    width: 940px;
+}
+#highlightsContent {
+    background: url("../images/curve-pattern-940.png") repeat-y scroll 0 0 transparent;
+    color: #444444;
+    font-size: 11px;
+    padding: 10px 12px;
+}
+#highlightsContent div.randomcontent {
+    float: left;
+    margin: 0 10px;
+}
+#highlights h1 {
+    font-size: 30px;
+    margin: 15px 0 0;
+}
+#highlights h2 {
+    font-size: 19px;
+    margin: 0 0 5px;
+}
+.jsclass body .randomcontent {
+    display: none;
+}
+img {
+    border: 0 none;
+}
+.imgrotate {
+    float: left;
+}
+img.alignright {
+    float: right;
+    margin: 0 0 2px 7px;
+    padding: 4px;
+}
+img.alignleft {
+    float: left;
+    margin: 0 7px 2px 0;
+    padding: 4px;
+}
+#newsScroll {
+    color: #FFFFFF;
+}
+#newsScroll div {
+    height: 260px;
+    margin: 10px 0;
+    overflow: hidden;
+    position: relative;
+}
+#newsScroll ul {
+    margin: 0;
+    padding: 0;
+}
+#newsScroll li {
+    display: block;
+    height: 70px;
+    list-style: none outside none;
+    width: 270px;
+}
+.jcarousel-skin-tango .jcarousel-item-vertical {
+    margin-bottom: 10px;
+}
+.scroller img {
+    padding: 0 10px 10px 0;
+}
+.alignImgLeft {
+    float: left;
+    padding: 0 10px 10px 0;
+}
+h1 {
+    color: #1D741A;
+    font-size: 36px;
+    margin: 10px 0;
+}
+h2 {
+    color: #000000;
+    font-size: 18px;
+}
+h3 {
+    color: #8CFFD9;
+    font-size: 14px;
+}
+h4 {
+    color: #FFFFFF;
+    font-size: 28px;
+    margin: 10px 0;
+}
+a {
+    color: #AD6E16;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    color: #AD6E16;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.smallerHeading {
+    font-size: 24px;
+}
+.txtBlue {
+    color: #004B84;
+}
+.txtRed {
+    color: #ED1B24;
+}
+.txtWhite {
+    color: #FFFFFF;
+}
+.txtGreen {
+    color: #8CFFD9;
+}
+.txtNote {
+    color: yellow;
+}
+.floatLeft {
+    float: left;
+}
+.floatRight {
+    float: right;
+}
+.clearFloat {
+    clear: both;
+}
+.dottedlines {
+    border-bottom: 1px dashed #FFFFFF;
+    padding-bottom: 10px;
+}
+.hr {
+    border-bottom: 1px dashed #999999;
+    margin: 10px 0;
+}
+.select {
+    background: url("../images/select.png") no-repeat scroll 0 0 transparent;
+    color: #888888;
+    font: 11px/21px arial,sans-serif;
+    height: 21px;
+    overflow: hidden;
+    padding: 0 0 0 10px;
+    position: absolute;
+    width: 145px;
+}
+.gallery img {
+    margin: 0 6px 6px 0;
+}
+#toScroll {
+    height: 440px;
+    margin-bottom: 30px;
+    overflow: auto;
+    padding-right: 20px;
+}
+#langSelect {
+    background: url("../images/capsule.png") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 23px;
+    margin: 30px 10px 0 0;
+    padding-top: 7px;
+    text-align: center;
+    width: 120px;
+}
+

@@ -9,17 +9,14 @@
     <%= csrf_meta_tags %>
 
    <style>
-       #Slideshow1 img { width:1000px }
-     </style
+       #Slideshow1 img { width:950px }
+     </style>
   </head>
 
 
   <body>
-    <div class="container">
-      <%= render 'layouts/header' %>
-      <br><br>
-
-<script>
+   <div class="container">
+  <script>
 
        var imgArray = new Array();
 
@@ -36,6 +33,13 @@
 
 
 
+  
+      <%= render 'layouts/header' %>
+     
+
+
+
+
       <section class="round">
 	<% flash.each do |key, value| %>
           <div class="flash <%= key %>"><%= value %></div>
@@ -43,6 +47,7 @@
 
         <%= yield %>
       </section>
+     
      <%= render 'layouts/footer' %>
      <%= debug(params) if Rails.env.development? %>
 
