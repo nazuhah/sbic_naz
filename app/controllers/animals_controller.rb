@@ -32,7 +32,7 @@ def index
 
   def edit
     @animal = Animal.find(params[:id])
-    @title = "Edit user"
+    @title = "Edit species"
   end
 
 
