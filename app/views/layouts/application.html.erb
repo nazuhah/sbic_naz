@@ -10,12 +10,17 @@
 
    <style>
        #Slideshow1 img { width:950px }
+       .hobo { position:absolute; right:250px; top:30px; z-index:-1 }
      </style>
+ 
   </head>
 
 
   <body>
    <div class="container">
+    <div id="logo" class="hobo">
+	<img src="assets/sbiclog.gif">
+     </div>
   <script>
 
        var imgArray = new Array();
@@ -29,7 +34,8 @@
        slideshowFade('Slideshow1','',imgArray,20,5000);
      
      </script>
-  
+    
+ 
       <%= render 'layouts/header' %>
      <br><br>
       <section class="round">
