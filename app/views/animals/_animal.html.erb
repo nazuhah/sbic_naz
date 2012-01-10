@@ -1,10 +1,26 @@
-<li>
+<!--<li>
  
-  <%= link_to animal.name, animal %>
+  <%= link_to animal.name, animal %>,   <%= link_to animal.location, animal %>
   <% if current_user.admin? %>
   | <%= link_to "delete", animal, :method => :delete, :confirm => "You sure?",
                                 :title => "Delete #{animal.name}" %>
   <% end %>
-</li>
+</li> -->
 
+
+
+
+  <tr>
+    <td><%= link_to animal_counter+1 %></td>
+    <td><%= link_to animal.name, animal %></td>
+    <td><%= link_to animal.location, animal %></td>
+    <td><%= link_to animal.sex, animal %></td>
+    <td><%= link_to animal.county, animal %></td>
+    <td><%= link_to animal.comment, animal %></td>
+   <td><%= link_to animal.created_at, animal %></td>
+  <% if current_user.admin? %>
+  <td> <%= link_to "Delete", animal, :method => :delete, :confirm => "You sure?",
+                                :title => "Delete #{animal.name}" %> | <%= link_to "Edit ", edit_animal_path(animal.id) %></td>
+  <% end %>
+  </tr>
 

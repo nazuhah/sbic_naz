@@ -1,1 +1,54 @@
-<%= @animal.name %>, <%= @animal.location %>, <%= @animal.sex %> , <%= @animal.county %>
+<!--<%= @animal.name %>, <%= @animal.location %>, <%= @animal.sex %> , <%= @animal.county %> -->
+
+<table width="500" border="1" cellspacing="0" cellpadding="0">
+<tr>
+    <td width="158">Species Name : </td>
+   
+   <td colspan="3"><%= @animal.name %></td>
+  </tr>
+  <tr>
+    <td>Sex/Stage :</td>
+    <td><%= @animal.sex %></td>
+    <td width="150">Abundance (Quantity) :</td>
+    <td width="97"><%= @animal.abundance %></td>
+  </tr>
+
+  
+  <tr>
+    <td>Location :</td>
+    <td><%= @animal.location %></td>
+    <td>Grid Reference :</td>
+    <td><%= @animal.grid %></td>
+  </tr>
+  <tr>
+    <td>County :</td>
+    <td colspan="3"><%= @animal.county %></td>    
+  </tr>
+  <tr>
+    <td>Provenance :</td>
+    <td><%= @animal.provenance %></td>
+    <td>Start Date</td>
+    <td><%= @animal.startdate %></td>
+  </tr>
+  <tr>
+    <td>Observer :</td>
+    <td><%= @animal.observer %></td>
+    <td>Determiner :</td>
+    <td><%= @animal.determiner %></td>
+  </tr>
+  <tr>
+    <td>Record type (method) :</td>
+    <td colspan="3"><%= @animal.recordtype %></td>
+    </tr>
+  <tr>
+    <td>Reference :</td>
+    <td colspan="3"><%= @animal.reference %></td>
+    </tr>
+  </tr>
+  <tr>
+    <td>Comment :</td>
+    <td colspan="3"><%= @animal.comment %></td>
+    </tr>
+  </tr>
+
+</table>

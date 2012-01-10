@@ -2,15 +2,13 @@
   width: 950px;
 }
 
-
-
 body {
   /*background: #ff66ff;*/
   background: url(bg.png) repeat-y;
 }
 
 header {
-  padding-top: 20px;
+  padding-top: 0px;
 }
 
 header img {

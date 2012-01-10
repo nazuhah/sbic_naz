@@ -1,8 +1,8 @@
 class AnimalsController < ApplicationController
 
  before_filter :authenticate, :only => [:index,:show,:edit, :update, :destroy]
-  before_filter :correct_user, :only => [:edit, :update]
-  before_filter :admin_user,   :only => :destroy
+ 
+  before_filter :admin_user,   :only => [:destroy, :edit, :udpdate]
 
   def new
     @animal = Animal.new
@@ -10,7 +10,7 @@ class AnimalsController < ApplicationController
   end
 
 def index
-     @title = "All users"
+     @title = "All species"
      @animals = Animal.paginate(:page => params[:page])
   end
 
@@ -24,13 +24,9 @@ def index
 
   def create
     @animal = Animal.new(params[:animal])
-    if @animal.save
-      #sign_in @user
-      flash[:success] = "Thanks for recording the species"
+    if @animal.save      
+      flash[:success] = "Thank you for recording the species"
       redirect_to @animal
-    else
-      @title = "Sign up"
-      render 'new'
     end
   end
 
@@ -43,10 +39,10 @@ def index
   def update
     @animal = Animal.find(params[:id])
     if @animal.update_attributes(params[:animal])
-      flash[:success] = "Profile updated."
-      redirect_to @user
+      flash[:success] = "Species updated."
+      redirect_to @animal
     else
-      @title = "Edit user"
+      @title = "Edit species"
       render 'edit'
     end
   end 
@@ -65,10 +61,6 @@ private
        #deny_access unless signed_in?
     end
 
-    def correct_user
-      @user = User.find(params[:id])
-      redirect_to(root_path) unless current_user?(@user)
-    end
 
      def admin_user
       redirect_to(root_path) unless current_user.admin?

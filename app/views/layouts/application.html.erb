@@ -24,22 +24,14 @@
 	  imgArray[1]="assets/tenton.jpg";
 	  imgArray[2]="assets/fox.jpg";
 	  imgArray[3]="assets/blackbird.jpg";
-	  imgArray[4]="assets/robin.jpg";
-	  
+	  imgArray[4]="assets/robin.jpg";  
 
        slideshowFade('Slideshow1','',imgArray,20,5000);
      
      </script>
-
-
-
   
       <%= render 'layouts/header' %>
-     
-
-
-
-
+     <br><br>
       <section class="round">
 	<% flash.each do |key, value| %>
           <div class="flash <%= key %>"><%= value %></div>

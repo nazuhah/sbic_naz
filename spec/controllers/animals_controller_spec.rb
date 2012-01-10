@@ -10,7 +10,7 @@ render_views
     end
     it "should have the right title" do
       get :new
-      response.should have_selector("title", :content => "Sign up")
+      response.should have_selector("title", :content => "Add Species")
     end
   end # close get new
 
@@ -47,13 +47,13 @@ render_views
         end
       end
       
-       it "should paginate users" do
+       it "should paginate animals" do
         get :index
         response.should have_selector("div.pagination")
         response.should have_selector("span.disabled", :content => "Previous")
-        response.should have_selector("a", :href => "/users?page=2",
+        response.should have_selector("a", :href => "/animals?page=2",
                                            :content => "2")
-        response.should have_selector("a", :href => "/users?page=2",
+        response.should have_selector("a", :href => "/animals?page=2",
                                            :content => "Next")
       end
 
@@ -66,13 +66,13 @@ render_views
       
       it "should have the right title" do
         get :index
-        response.should have_selector("title", :content => "All users")
+        response.should have_selector("title", :content => "All species")
       end
       
-      it "should have an element for each user" do
+      it "should have an element for animal user" do
         get :index
-        @users.each do |user|
-          response.should have_selector("li", :content => user.name)
+        @users.each do |animal|
+          response.should have_selector("li", :content => animal.name)
         end
       end
     end #close for signin users
@@ -89,7 +89,7 @@ render_views
     end
 
     it "should be successful" do
-      get :show, :id => @user
+      get :show, :id => @animal
       response.should be_success
     end
 
@@ -108,10 +108,7 @@ render_views
       response.should have_selector("h1", :content => @user.name)
     end
 
-    it "should have a profile image" do
-      get :show, :id => @user
-      response.should have_selector("h1>img", :class => "gravatar")
-    end
+   
 
   end #close get show
 
@@ -128,10 +125,10 @@ render_views
                   :password_confirmation => "" }
       end
 
-      it "should not create a user" do
+      it "should not create a animal" do
         lambda do
-          post :create, :user => @attr
-        end.should_not change(User, :count)
+          post :create, :animal => @attr
+        end.should_not change(Animal, :count)
       end
 
       it "should have the right title" do
@@ -140,39 +137,29 @@ render_views
       end
 
       it "should render the 'new' page" do
-        post :create, :user => @attr
+        post :create, :animal => @attr
         response.should render_template('new')
       end
 
 	
     describe "success" do
 
-      before(:each) do
-        @attr = { :name => "New User", :email => "user@example.com",
-                  :password => "foobar", :password_confirmation => "foobar" }
-      end
+      
 
-      it "should create a user" do
+      it "should create a species" do
         lambda do
-          post :create, :user => @attr
-        end.should change(User, :count).by(1)
+          post :create, :animal => @attr
+        end.should change(Animal, :count).by(1)
       end
       
-      it "should sign the user in" do
-        post :create, :user => @attr
-        controller.should be_signed_in
-      end
+     
 	
       it "should redirect to the user show page" do
         post :create, :user => @attr
         response.should redirect_to(user_path(assigns(:user)))
       end    
       
-      it "should have a welcome message" do
-        post :create, :user => @attr
-        flash[:success].should =~ /welcome to the sample app/i
-      end
-
+      
     end #close success
 
 
@@ -182,10 +169,7 @@ render_views
 
   describe "GET 'edit'" do
 
-    before(:each) do
-      @user = Factory(:user)
-      test_sign_in(@user)
-    end
+
 
     it "should be successful" do
       get :edit, :id => @user
@@ -197,12 +181,6 @@ render_views
       response.should have_selector("title", :content => "Edit user")
     end
 
-    it "should have a link to change the Gravatar" do
-      get :edit, :id => @user
-      gravatar_url = "http://gravatar.com/emails"
-      response.should have_selector("a", :href => gravatar_url,
-                                         :content => "change")
-    end
   end #close get edit
 
 
@@ -259,85 +237,11 @@ render_views
   end #close update
 
 
-    describe "authentication of edit/update pages" do
-
-    before(:each) do
-      @user = Factory(:user)
-    end
-    
-    describe "for non-signed-in users" do
-      
-      it "should deny access to 'edit'" do
-        get :edit, :id => @user
-        response.should redirect_to(signin_path)
-      end
-    
-      it "should deny access to 'update'" do
-        put :update, :id => @user, :user => {}
-        response.should redirect_to(signin_path)
-      end
-    end
+ 
    
-     describe "for signed-in users" do
-      
-      before(:each) do
-        wrong_user = Factory(:user, :email => "user@example.net")
-        test_sign_in(wrong_user)
-      end
-      
-      it "should require matching users for 'edit'" do
-        get :edit, :id => @user
-        response.should redirect_to(root_path)
-      end
-      
-      it "should require matching users for 'update'" do
-        put :update, :id => @user, :user => {}
-        response.should redirect_to(root_path)
-      end
-    end #close for signed-in users
   
-  end #close authentication of edit
 
-   describe "DELETE 'destroy'" do
-    
-    before(:each) do
-      @user = Factory(:user)
-    end
-    
-    describe "as a non-signed-in user" do
-      it "should deny access" do
-        delete :destroy, :id => @user
-        response.should redirect_to(signin_path)
-      end
-    end
-
-    describe "as a non-admin user" do
-      it "should protect the page" do
-        test_sign_in(@user)
-        delete :destroy, :id => @user
-        response.should redirect_to(root_path)
-      end
-    end
-    
-    describe "as an admin user" do
-      
-      before(:each) do
-        admin = Factory(:user, :email => "admin@example.com", :admin => true)
-        test_sign_in(admin)
-      end
-
-      it "should destroy the user" do
-        lambda do
-          delete :destroy, :id => @user
-        end.should change(User, :count).by(-1)
-      end
-      
-      it "should redirect to the users page" do
-        delete :destroy, :id => @user
-        response.should redirect_to(users_path)
-      end
-    end
-  end # close delete destroy
+  
 
 
 

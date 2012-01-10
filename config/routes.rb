@@ -2,8 +2,8 @@ SbicNaz::Application.routes.draw do
  
 
 
-  resources :sessions, :only => [:new, :create, :destroy]
-  resources :animals  
+  resources :sessions, :only => [:new, :create, :destroy, :edit]
+  resources :animals 
   resources :users
 
 
@@ -12,6 +12,7 @@ SbicNaz::Application.routes.draw do
   get "users/new"
   get "pages/home"
   get "pages/contact"
+
 
 
 

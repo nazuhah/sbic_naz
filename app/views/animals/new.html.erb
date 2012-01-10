@@ -1,10 +1,14 @@
 
 <h1>Add Species</h1>
 
-tbody tr:nth-child(even) td, tbody tr.even td {background:#e5ecf9;}
+<style type="text/css">
+tr:nth-child(odd)    { background-color:#eee; }
+tr:nth-child(even)    { background-color:#fff; }
+
+</style>
 
 <%= form_for(@animal) do |f| %>
-<table width="500" border="1">
+<table width="500" border="1" cellspacing="0" cellpadding="0">
 <tr>
     <td>Species Name : </td>
    
@@ -54,12 +58,7 @@ tbody tr:nth-child(even) td, tbody tr.even td {background:#e5ecf9;}
     <td colspan="3"><%= f.text_field :comment %></td>
     </tr>
   </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+
 </table>
 
 <div><%= f.submit "Save" %>
