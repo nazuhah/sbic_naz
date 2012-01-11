@@ -1,0 +1,1141 @@
+[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[33m*[0m[32m.[0m[32m.[0m[33m*[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[33m*[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[33m*[0m[33m*[0m[33m*[0m[33m*[0m[33m*[0m[33m*[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[31mF[0m[33m*[0m[33m*[0m[33m*[0m
+
+Pending:
+[33m  SpeciesCode add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/models/species_code_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/models/species_code_spec.rb:4[0m
+[33m  CountyCode add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/models/county_code_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/models/county_code_spec.rb:4[0m
+[33m  SexCode add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/models/sex_code_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/models/sex_code_spec.rb:4[0m
+[33m  session/new.html.erb add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/views/session/new.html.erb_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/views/session/new.html.erb_spec.rb:4[0m
+[33m  species/index.html.erb add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/views/species/index.html.erb_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/views/species/index.html.erb_spec.rb:4[0m
+[33m  species/new.html.erb add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/views/species/new.html.erb_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/views/species/new.html.erb_spec.rb:4[0m
+[33m  sessions/new.html.erb add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/views/sessions/new.html.erb_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/views/sessions/new.html.erb_spec.rb:4[0m
+[33m  animals/new.html.erb add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/views/animals/new.html.erb_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/views/animals/new.html.erb_spec.rb:4[0m
+[33m  users/new.html.erb add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/views/users/new.html.erb_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/views/users/new.html.erb_spec.rb:4[0m
+[33m  UsersHelper add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/helpers/users_helper_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/helpers/users_helper_spec.rb:14[0m
+[33m  SessionsHelper add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/helpers/sessions_helper_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/helpers/sessions_helper_spec.rb:14[0m
+[33m  AnimalsHelper add some examples to (or delete) /home/administrator/rails_projects/sbic_naz/spec/helpers/animals_helper_spec.rb[0m
+[36m    # Not Yet Implemented[0m
+[36m    # ./spec/helpers/animals_helper_spec.rb:14[0m
+
+Failures:
+
+  1) LayoutLinks should have a Home page at '/'
+     [31mFailure/Error:[0m [31mget '/'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:6:in `block (2 levels) in <top (required)>'[0m
+
+  2) LayoutLinks should have a Contact page at '/contact'
+     [31mFailure/Error:[0m [31mget '/contact'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:11:in `block (2 levels) in <top (required)>'[0m
+
+  3) LayoutLinks should have an About page at '/about'
+     [31mFailure/Error:[0m [31mget '/about'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:16:in `block (2 levels) in <top (required)>'[0m
+
+  4) LayoutLinks should have a Help page at '/help'
+     [31mFailure/Error:[0m [31mget '/help'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:21:in `block (2 levels) in <top (required)>'[0m
+
+  5) LayoutLinks should have a signup page at '/signup'
+     [31mFailure/Error:[0m [31mget '/signup'[0m
+     [31mActionController::RoutingError:[0m
+       [31muninitialized constant SignupController[0m
+[36m     # ./spec/requests/layout_links_spec.rb:26:in `block (2 levels) in <top (required)>'[0m
+
+  6) LayoutLinks should have a News page at '/news'
+     [31mFailure/Error:[0m [31mget '/news'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:31:in `block (2 levels) in <top (required)>'[0m
+
+  7) LayoutLinks should have a Enquiry page at '/enquiry'
+     [31mFailure/Error:[0m [31mget '/enquiry'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:36:in `block (2 levels) in <top (required)>'[0m
+
+  8) LayoutLinks should have a Submit Sightings page at '/sightings'
+     [31mFailure/Error:[0m [31mget '/sightings'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:41:in `block (2 levels) in <top (required)>'[0m
+
+  9) LayoutLinks when not signed in should have a signin link
+     [31mFailure/Error:[0m [31mvisit root_path[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:47:in `block (3 levels) in <top (required)>'[0m
+
+  10) LayoutLinks when signed in should have a signout link
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/requests/layout_links_spec.rb:56:in `block (3 levels) in <top (required)>'[0m
+
+  11) Users sign in/out failure should not sign a user in
+     [31mFailure/Error:[0m [31mvisit signin_path[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/requests/users_spec.rb:11:in `block (4 levels) in <top (required)>'[0m
+
+  12) Users sign in/out success should sign a user in and out
+     [31mFailure/Error:[0m [31muser = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/requests/users_spec.rb:21:in `block (4 levels) in <top (required)>'[0m
+
+  13) Animals GET /animals works! (now write some real specs)
+     [31mFailure/Error:[0m [31mget animals_index_path[0m
+     [31mNameError:[0m
+       [31mundefined local variable or method `animals_index_path' for #<RSpec::Core::ExampleGroup::Nested_3::Nested_1:0x00000005a5e100>[0m
+[36m     # ./spec/requests/animals_spec.rb:7:in `block (3 levels) in <top (required)>'[0m
+
+  14) FriendlyForwardings GET /friendly_forwardings works! (now write some real specs)
+     [31mFailure/Error:[0m [31mget friendly_forwardings_path[0m
+     [31mNameError:[0m
+       [31mundefined local variable or method `friendly_forwardings_path' for #<RSpec::Core::ExampleGroup::Nested_4::Nested_1:0x000000058e3c58>[0m
+[36m     # ./spec/requests/friendly_forwardings_spec.rb:7:in `block (3 levels) in <top (required)>'[0m
+
+  15) Animal should create a new instance given valid attributes
+     [31mFailure/Error:[0m [31mUser.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:16:in `block (2 levels) in <top (required)>'[0m
+
+  16) Animal should require a name
+     [31mFailure/Error:[0m [31mno_name_user = User.new(@attr.merge(:name => ""))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:20:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:20:in `block (2 levels) in <top (required)>'[0m
+
+  17) Animal should require an email address
+     [31mFailure/Error:[0m [31mno_email_user = User.new(@attr.merge(:email => ""))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:25:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:25:in `block (2 levels) in <top (required)>'[0m
+
+  18) Animal should reject names that are too long
+     [31mFailure/Error:[0m [31mlong_name_user = User.new(@attr.merge(:name => long_name))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:31:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:31:in `block (2 levels) in <top (required)>'[0m
+
+  19) Animal should accept valid email addresses
+     [31mFailure/Error:[0m [31mvalid_email_user = User.new(@attr.merge(:email => address))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:38:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:38:in `block (3 levels) in <top (required)>'[0m
+[36m     # ./spec/models/animal_spec.rb:37:in `each'[0m
+[36m     # ./spec/models/animal_spec.rb:37:in `block (2 levels) in <top (required)>'[0m
+
+  20) Animal should reject invalid email addresses
+     [31mFailure/Error:[0m [31minvalid_email_user = User.new(@attr.merge(:email => address))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:46:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:46:in `block (3 levels) in <top (required)>'[0m
+[36m     # ./spec/models/animal_spec.rb:45:in `each'[0m
+[36m     # ./spec/models/animal_spec.rb:45:in `block (2 levels) in <top (required)>'[0m
+
+  21) Animal should reject duplicate email addresses
+     [31mFailure/Error:[0m [31mUser.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:52:in `block (2 levels) in <top (required)>'[0m
+
+  22) Animal should reject email addresses identical up to case
+     [31mFailure/Error:[0m [31mUser.create!(@attr.merge(:email => upcased_email))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:58:in `block (2 levels) in <top (required)>'[0m
+
+  23) Animal password validations should require a password
+     [31mFailure/Error:[0m [31mUser.new(@attr.merge(:password => "", :password_confirmation => "")).[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:66:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:66:in `block (3 levels) in <top (required)>'[0m
+
+  24) Animal password validations should require a matching password confirmation
+     [31mFailure/Error:[0m [31mUser.new(@attr.merge(:password_confirmation => "invalid")).[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:71:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:71:in `block (3 levels) in <top (required)>'[0m
+
+  25) Animal password validations should reject short passwords
+     [31mFailure/Error:[0m [31mUser.new(hash).should_not be_valid[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:78:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:78:in `block (3 levels) in <top (required)>'[0m
+
+  26) Animal password validations should reject long passwords
+     [31mFailure/Error:[0m [31mUser.new(hash).should_not be_valid[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:84:in `new'[0m
+[36m     # ./spec/models/animal_spec.rb:84:in `block (3 levels) in <top (required)>'[0m
+
+  27) Animal password encryption should have an encrypted password attribute
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:91:in `block (3 levels) in <top (required)>'[0m
+
+  28) Animal password encryption should set the encrypted password
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:91:in `block (3 levels) in <top (required)>'[0m
+
+  29) Animal authenticate method should return nil on email/password mismatch
+     [31mFailure/Error:[0m [31mwrong_password_user = User.authenticate(@attr[:email], "wrongpass")[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./spec/models/animal_spec.rb:105:in `block (3 levels) in <top (required)>'[0m
+
+  30) Animal authenticate method should return nil for an email address with no user
+     [31mFailure/Error:[0m [31mnonexistent_user = User.authenticate("bar@foo.com", @attr[:password])[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./spec/models/animal_spec.rb:110:in `block (3 levels) in <top (required)>'[0m
+
+  31) Animal authenticate method should return the user on email/password match
+     [31mFailure/Error:[0m [31mmatching_user = User.authenticate(@attr[:email], @attr[:password])[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./spec/models/animal_spec.rb:115:in `block (3 levels) in <top (required)>'[0m
+
+  32) Animal has_password? method should be true if the passwords match
+     [31mFailure/Error:[0m [31m@user.has_password?(@attr[:password]).should be_true[0m
+     [31mNoMethodError:[0m
+       [31mundefined method `has_password?' for nil:NilClass[0m
+[36m     # ./spec/models/animal_spec.rb:125:in `block (3 levels) in <top (required)>'[0m
+
+  33) Animal has_password? method should be false if the passwords don't match
+     [31mFailure/Error:[0m [31m@user.has_password?("invalid").should be_false[0m
+     [31mNoMethodError:[0m
+       [31mundefined method `has_password?' for nil:NilClass[0m
+[36m     # ./spec/models/animal_spec.rb:129:in `block (3 levels) in <top (required)>'[0m
+
+  34) Animal admin attribute should respond to admin
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:136:in `block (3 levels) in <top (required)>'[0m
+
+  35) Animal admin attribute should not be an admin by default
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:136:in `block (3 levels) in <top (required)>'[0m
+
+  36) Animal admin attribute should be convertible to an admin
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/animal_spec.rb:136:in `block (3 levels) in <top (required)>'[0m
+
+  37) User should create a new instance given valid attributes
+     [31mFailure/Error:[0m [31mUser.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:16:in `block (2 levels) in <top (required)>'[0m
+
+  38) User should require a name
+     [31mFailure/Error:[0m [31mno_name_user = User.new(@attr.merge(:name => ""))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:20:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:20:in `block (2 levels) in <top (required)>'[0m
+
+  39) User should require an email address
+     [31mFailure/Error:[0m [31mno_email_user = User.new(@attr.merge(:email => ""))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:25:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:25:in `block (2 levels) in <top (required)>'[0m
+
+  40) User should reject names that are too long
+     [31mFailure/Error:[0m [31mlong_name_user = User.new(@attr.merge(:name => long_name))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:31:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:31:in `block (2 levels) in <top (required)>'[0m
+
+  41) User should accept valid email addresses
+     [31mFailure/Error:[0m [31mvalid_email_user = User.new(@attr.merge(:email => address))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:38:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:38:in `block (3 levels) in <top (required)>'[0m
+[36m     # ./spec/models/user_spec.rb:37:in `each'[0m
+[36m     # ./spec/models/user_spec.rb:37:in `block (2 levels) in <top (required)>'[0m
+
+  42) User should reject invalid email addresses
+     [31mFailure/Error:[0m [31minvalid_email_user = User.new(@attr.merge(:email => address))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:46:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:46:in `block (3 levels) in <top (required)>'[0m
+[36m     # ./spec/models/user_spec.rb:45:in `each'[0m
+[36m     # ./spec/models/user_spec.rb:45:in `block (2 levels) in <top (required)>'[0m
+
+  43) User should reject duplicate email addresses
+     [31mFailure/Error:[0m [31mUser.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:52:in `block (2 levels) in <top (required)>'[0m
+
+  44) User should reject email addresses identical up to case
+     [31mFailure/Error:[0m [31mUser.create!(@attr.merge(:email => upcased_email))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:58:in `block (2 levels) in <top (required)>'[0m
+
+  45) User password validations should require a password
+     [31mFailure/Error:[0m [31mUser.new(@attr.merge(:password => "", :password_confirmation => "")).[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:66:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:66:in `block (3 levels) in <top (required)>'[0m
+
+  46) User password validations should require a matching password confirmation
+     [31mFailure/Error:[0m [31mUser.new(@attr.merge(:password_confirmation => "invalid")).[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:71:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:71:in `block (3 levels) in <top (required)>'[0m
+
+  47) User password validations should reject short passwords
+     [31mFailure/Error:[0m [31mUser.new(hash).should_not be_valid[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:78:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:78:in `block (3 levels) in <top (required)>'[0m
+
+  48) User password validations should reject long passwords
+     [31mFailure/Error:[0m [31mUser.new(hash).should_not be_valid[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:84:in `new'[0m
+[36m     # ./spec/models/user_spec.rb:84:in `block (3 levels) in <top (required)>'[0m
+
+  49) User password encryption should have an encrypted password attribute
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:91:in `block (3 levels) in <top (required)>'[0m
+
+  50) User password encryption should set the encrypted password
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:91:in `block (3 levels) in <top (required)>'[0m
+
+  51) User authenticate method should return nil on email/password mismatch
+     [31mFailure/Error:[0m [31mwrong_password_user = User.authenticate(@attr[:email], "wrongpass")[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./spec/models/user_spec.rb:105:in `block (3 levels) in <top (required)>'[0m
+
+  52) User authenticate method should return nil for an email address with no user
+     [31mFailure/Error:[0m [31mnonexistent_user = User.authenticate("bar@foo.com", @attr[:password])[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./spec/models/user_spec.rb:110:in `block (3 levels) in <top (required)>'[0m
+
+  53) User authenticate method should return the user on email/password match
+     [31mFailure/Error:[0m [31mmatching_user = User.authenticate(@attr[:email], @attr[:password])[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./spec/models/user_spec.rb:115:in `block (3 levels) in <top (required)>'[0m
+
+  54) User has_password? method should be true if the passwords match
+     [31mFailure/Error:[0m [31m@user.has_password?(@attr[:password]).should be_true[0m
+     [31mNoMethodError:[0m
+       [31mundefined method `has_password?' for nil:NilClass[0m
+[36m     # ./spec/models/user_spec.rb:125:in `block (3 levels) in <top (required)>'[0m
+
+  55) User has_password? method should be false if the passwords don't match
+     [31mFailure/Error:[0m [31m@user.has_password?("invalid").should be_false[0m
+     [31mNoMethodError:[0m
+       [31mundefined method `has_password?' for nil:NilClass[0m
+[36m     # ./spec/models/user_spec.rb:129:in `block (3 levels) in <top (required)>'[0m
+
+  56) User admin attribute should respond to admin
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:136:in `block (3 levels) in <top (required)>'[0m
+
+  57) User admin attribute should not be an admin by default
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:136:in `block (3 levels) in <top (required)>'[0m
+
+  58) User admin attribute should be convertible to an admin
+     [31mFailure/Error:[0m [31m@user = User.create!(@attr)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/models/user_spec.rb:136:in `block (3 levels) in <top (required)>'[0m
+
+  59) PagesController GET 'home' should be successful
+     [31mFailure/Error:[0m [31mget 'home'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/pages_controller_spec.rb:8:in `block (3 levels) in <top (required)>'[0m
+
+  60) PagesController GET 'home' should have the right title
+     [31mFailure/Error:[0m [31mget 'home'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/pages_controller_spec.rb:13:in `block (3 levels) in <top (required)>'[0m
+
+  61) PagesController GET 'contact' should be successful
+     [31mFailure/Error:[0m [31mget 'contact'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/pages_controller_spec.rb:21:in `block (3 levels) in <top (required)>'[0m
+
+  62) PagesController GET 'contact' should have the right title
+     [31mFailure/Error:[0m [31mget 'contact'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/pages_controller_spec.rb:26:in `block (3 levels) in <top (required)>'[0m
+
+  63) PagesController GET 'about' should be successful
+     [31mFailure/Error:[0m [31mget 'about'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/pages_controller_spec.rb:35:in `block (3 levels) in <top (required)>'[0m
+
+  64) PagesController GET 'about' should have the right title
+     [31mFailure/Error:[0m [31mget 'about'[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/pages_controller_spec.rb:40:in `block (3 levels) in <top (required)>'[0m
+
+  65) AnimalsController GET 'new' should be successful
+     [31mFailure/Error:[0m [31mget :new[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./app/controllers/animals_controller.rb:8:in `new'[0m
+[36m     # ./app/controllers/animals_controller.rb:8:in `new'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:8:in `block (3 levels) in <top (required)>'[0m
+
+  66) AnimalsController GET 'new' should have the right title
+     [31mFailure/Error:[0m [31mget :new[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./app/controllers/animals_controller.rb:8:in `new'[0m
+[36m     # ./app/controllers/animals_controller.rb:8:in `new'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:12:in `block (3 levels) in <top (required)>'[0m
+
+  67) AnimalsController GET 'index' for non-signed-in users should deny access
+     [31mFailure/Error:[0m [31mget :index[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./app/controllers/animals_controller.rb:14:in `index'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:23:in `block (4 levels) in <top (required)>'[0m
+
+  68) AnimalsController GET 'index' for signed-in users should have an element for each user
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:32:in `block (4 levels) in <top (required)>'[0m
+
+  69) AnimalsController GET 'index' for signed-in users should paginate animals
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:32:in `block (4 levels) in <top (required)>'[0m
+
+  70) AnimalsController GET 'index' for signed-in users should be successful
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:32:in `block (4 levels) in <top (required)>'[0m
+
+  71) AnimalsController GET 'index' for signed-in users should have the right title
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:32:in `block (4 levels) in <top (required)>'[0m
+
+  72) AnimalsController GET 'index' for signed-in users should have an element for animal user
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:32:in `block (4 levels) in <top (required)>'[0m
+
+  73) AnimalsController GET 'show' should be successful
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:88:in `block (3 levels) in <top (required)>'[0m
+
+  74) AnimalsController GET 'show' should find the right user
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:88:in `block (3 levels) in <top (required)>'[0m
+
+  75) AnimalsController GET 'show' should have the right title
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:88:in `block (3 levels) in <top (required)>'[0m
+
+  76) AnimalsController GET 'show' should include the user's name
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:88:in `block (3 levels) in <top (required)>'[0m
+
+  77) AnimalsController POST 'create' failure should not create a animal
+     [31mFailure/Error:[0m [31mlambda do[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:129:in `block (4 levels) in <top (required)>'[0m
+
+  78) AnimalsController POST 'create' failure should have the right title
+     [31mFailure/Error:[0m [31mpost :create, :user => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./app/controllers/animals_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/animals_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:135:in `block (4 levels) in <top (required)>'[0m
+
+  79) AnimalsController POST 'create' failure should render the 'new' page
+     [31mFailure/Error:[0m [31mpost :create, :animal => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./app/controllers/animals_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/animals_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:140:in `block (4 levels) in <top (required)>'[0m
+
+  80) AnimalsController POST 'create' failure success should create a species
+     [31mFailure/Error:[0m [31mlambda do[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:150:in `block (5 levels) in <top (required)>'[0m
+
+  81) AnimalsController POST 'create' failure success should redirect to the user show page
+     [31mFailure/Error:[0m [31mpost :create, :user => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'animals'[0m
+[36m     # ./app/controllers/animals_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/animals_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:158:in `block (5 levels) in <top (required)>'[0m
+
+  82) AnimalsController GET 'edit' should be successful
+     [31mFailure/Error:[0m [31mget :edit, :id => @user[0m
+     [31mActionController::RoutingError:[0m
+       [31mNo route matches {:id=>nil, :controller=>"animals", :action=>"edit"}[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:175:in `block (3 levels) in <top (required)>'[0m
+
+  83) AnimalsController GET 'edit' should have the right title
+     [31mFailure/Error:[0m [31mget :edit, :id => @user[0m
+     [31mActionController::RoutingError:[0m
+       [31mNo route matches {:id=>nil, :controller=>"animals", :action=>"edit"}[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:180:in `block (3 levels) in <top (required)>'[0m
+
+  84) AnimalsController PUT 'update' failure should render the 'edit' page
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:191:in `block (3 levels) in <top (required)>'[0m
+
+  85) AnimalsController PUT 'update' failure should have the right title
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:191:in `block (3 levels) in <top (required)>'[0m
+
+  86) AnimalsController PUT 'update' success should change the user's attributes
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:191:in `block (3 levels) in <top (required)>'[0m
+
+  87) AnimalsController PUT 'update' success should redirect to the user show page
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:191:in `block (3 levels) in <top (required)>'[0m
+
+  88) AnimalsController PUT 'update' success should have a flash message
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/animals_controller_spec.rb:191:in `block (3 levels) in <top (required)>'[0m
+
+  89) SessionsController GET 'new' should be successful
+     [31mFailure/Error:[0m [31mget :new[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:9:in `block (3 levels) in <top (required)>'[0m
+
+  90) SessionsController GET 'new' should have the right title
+     [31mFailure/Error:[0m [31mget :new[0m
+     [31mActionView::Template::Error:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/views/layouts/_header.html.erb:6:in `_app_views_layouts__header_html_erb__1343900541695076386_46243800'[0m
+[36m     # ./app/views/layouts/application.html.erb:39:in `_app_views_layouts_application_html_erb___579683071396893184_48612860'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:14:in `block (3 levels) in <top (required)>'[0m
+
+  91) SessionsController POST 'create' invalid signin should re-render the new page
+     [31mFailure/Error:[0m [31mpost :create, :session => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./app/controllers/sessions_controller.rb:9:in `create'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:29:in `block (4 levels) in <top (required)>'[0m
+
+  92) SessionsController POST 'create' invalid signin should have the right title
+     [31mFailure/Error:[0m [31mpost :create, :session => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./app/controllers/sessions_controller.rb:9:in `create'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:34:in `block (4 levels) in <top (required)>'[0m
+
+  93) SessionsController POST 'create' invalid signin should have a flash.now message
+     [31mFailure/Error:[0m [31mpost :create, :session => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:43:in `authenticate'[0m
+[36m     # ./app/controllers/sessions_controller.rb:9:in `create'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:39:in `block (4 levels) in <top (required)>'[0m
+
+  94) SessionsController POST 'create' with valid email and password should sign the user in
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:47:in `block (4 levels) in <top (required)>'[0m
+
+  95) SessionsController POST 'create' with valid email and password should redirect to the user show page
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:47:in `block (4 levels) in <top (required)>'[0m
+
+  96) SessionsController DELETE 'destroy' should sign a user out
+     [31mFailure/Error:[0m [31mtest_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/sessions_controller_spec.rb:69:in `block (3 levels) in <top (required)>'[0m
+
+  97) UsersController GET 'index' for non-signed-in users should deny access
+     [31mFailure/Error:[0m [31mget :index[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/models/user.rb:49:in `authenticate_with_salt'[0m
+[36m     # ./app/helpers/sessions_helper.rb:51:in `user_from_remember_token'[0m
+[36m     # ./app/helpers/sessions_helper.rb:20:in `current_user'[0m
+[36m     # ./app/helpers/sessions_helper.rb:24:in `signed_in?'[0m
+[36m     # ./app/controllers/users_controller.rb:65:in `authenticate'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:10:in `block (4 levels) in <top (required)>'[0m
+
+  98) UsersController GET 'index' for signed-in users should have an element for each user
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:19:in `block (4 levels) in <top (required)>'[0m
+
+  99) UsersController GET 'index' for signed-in users should paginate users
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:19:in `block (4 levels) in <top (required)>'[0m
+
+  100) UsersController GET 'index' for signed-in users should be successful
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:19:in `block (4 levels) in <top (required)>'[0m
+
+  101) UsersController GET 'index' for signed-in users should have the right title
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:19:in `block (4 levels) in <top (required)>'[0m
+
+  102) UsersController GET 'index' for signed-in users should have an element for each user
+     [31mFailure/Error:[0m [31m@user = test_sign_in(Factory(:user))[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:19:in `block (4 levels) in <top (required)>'[0m
+
+  103) UsersController GET 'show' should be successful
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:75:in `block (3 levels) in <top (required)>'[0m
+
+  104) UsersController GET 'show' should find the right user
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:75:in `block (3 levels) in <top (required)>'[0m
+
+  105) UsersController GET 'show' should have the right title
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:75:in `block (3 levels) in <top (required)>'[0m
+
+  106) UsersController GET 'show' should include the user's name
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:75:in `block (3 levels) in <top (required)>'[0m
+
+  107) UsersController GET 'show' should have a profile image
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:75:in `block (3 levels) in <top (required)>'[0m
+
+  108) UsersController GET 'new' should be successful
+     [31mFailure/Error:[0m [31mget :new[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/controllers/users_controller.rb:21:in `new'[0m
+[36m     # ./app/controllers/users_controller.rb:21:in `new'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:109:in `block (3 levels) in <top (required)>'[0m
+
+  109) UsersController GET 'new' should have the right title
+     [31mFailure/Error:[0m [31mget :new[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/controllers/users_controller.rb:21:in `new'[0m
+[36m     # ./app/controllers/users_controller.rb:21:in `new'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:113:in `block (3 levels) in <top (required)>'[0m
+
+  110) UsersController POST 'create' failure should not create a user
+     [31mFailure/Error:[0m [31mlambda do[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:128:in `block (4 levels) in <top (required)>'[0m
+
+  111) UsersController POST 'create' failure should have the right title
+     [31mFailure/Error:[0m [31mpost :create, :user => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:134:in `block (4 levels) in <top (required)>'[0m
+
+  112) UsersController POST 'create' failure should render the 'new' page
+     [31mFailure/Error:[0m [31mpost :create, :user => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:139:in `block (4 levels) in <top (required)>'[0m
+
+  113) UsersController POST 'create' failure success should create a user
+     [31mFailure/Error:[0m [31mlambda do[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:152:in `block (5 levels) in <top (required)>'[0m
+
+  114) UsersController POST 'create' failure success should sign the user in
+     [31mFailure/Error:[0m [31mpost :create, :user => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:158:in `block (5 levels) in <top (required)>'[0m
+
+  115) UsersController POST 'create' failure success should redirect to the user show page
+     [31mFailure/Error:[0m [31mpost :create, :user => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:163:in `block (5 levels) in <top (required)>'[0m
+
+  116) UsersController POST 'create' failure success should have a welcome message
+     [31mFailure/Error:[0m [31mpost :create, :user => @attr[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `new'[0m
+[36m     # ./app/controllers/users_controller.rb:26:in `create'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:168:in `block (5 levels) in <top (required)>'[0m
+
+  117) UsersController GET 'edit' should be successful
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:182:in `block (3 levels) in <top (required)>'[0m
+
+  118) UsersController GET 'edit' should have the right title
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:182:in `block (3 levels) in <top (required)>'[0m
+
+  119) UsersController GET 'edit' should have a link to change the Gravatar
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:182:in `block (3 levels) in <top (required)>'[0m
+
+  120) UsersController PUT 'update' failure should render the 'edit' page
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:209:in `block (3 levels) in <top (required)>'[0m
+
+  121) UsersController PUT 'update' failure should have the right title
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:209:in `block (3 levels) in <top (required)>'[0m
+
+  122) UsersController PUT 'update' success should change the user's attributes
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:209:in `block (3 levels) in <top (required)>'[0m
+
+  123) UsersController PUT 'update' success should redirect to the user show page
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:209:in `block (3 levels) in <top (required)>'[0m
+
+  124) UsersController PUT 'update' success should have a flash message
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:209:in `block (3 levels) in <top (required)>'[0m
+
+  125) UsersController authentication of edit/update pages for non-signed-in users should deny access to 'edit'
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:261:in `block (3 levels) in <top (required)>'[0m
+
+  126) UsersController authentication of edit/update pages for non-signed-in users should deny access to 'update'
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:261:in `block (3 levels) in <top (required)>'[0m
+
+  127) UsersController authentication of edit/update pages for signed-in users should require matching users for 'edit'
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:261:in `block (3 levels) in <top (required)>'[0m
+
+  128) UsersController authentication of edit/update pages for signed-in users should require matching users for 'update'
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:261:in `block (3 levels) in <top (required)>'[0m
+
+  129) UsersController DELETE 'destroy' as a non-signed-in user should deny access
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:300:in `block (3 levels) in <top (required)>'[0m
+
+  130) UsersController DELETE 'destroy' as a non-admin user should protect the page
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:300:in `block (3 levels) in <top (required)>'[0m
+
+  131) UsersController DELETE 'destroy' as an admin user should destroy the user
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:300:in `block (3 levels) in <top (required)>'[0m
+
+  132) UsersController DELETE 'destroy' as an admin user should redirect to the users page
+     [31mFailure/Error:[0m [31m@user = Factory(:user)[0m
+     [31mActiveRecord::StatementInvalid:[0m
+       [31mCould not find table 'users'[0m
+[36m     # ./spec/controllers/users_controller_spec.rb:300:in `block (3 levels) in <top (required)>'[0m
+
+Finished in 2.36 seconds
+[31m146 examples, 132 failures, 12 pending[0m
+
+Failed examples:
+
+[31mrspec ./spec/requests/layout_links_spec.rb:5[0m [36m# LayoutLinks should have a Home page at '/'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:10[0m [36m# LayoutLinks should have a Contact page at '/contact'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:15[0m [36m# LayoutLinks should have an About page at '/about'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:20[0m [36m# LayoutLinks should have a Help page at '/help'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:25[0m [36m# LayoutLinks should have a signup page at '/signup'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:30[0m [36m# LayoutLinks should have a News page at '/news'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:35[0m [36m# LayoutLinks should have a Enquiry page at '/enquiry'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:40[0m [36m# LayoutLinks should have a Submit Sightings page at '/sightings'[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:46[0m [36m# LayoutLinks when not signed in should have a signin link[0m
+[31mrspec ./spec/requests/layout_links_spec.rb:63[0m [36m# LayoutLinks when signed in should have a signout link[0m
+[31mrspec ./spec/requests/users_spec.rb:10[0m [36m# Users sign in/out failure should not sign a user in[0m
+[31mrspec ./spec/requests/users_spec.rb:20[0m [36m# Users sign in/out success should sign a user in and out[0m
+[31mrspec ./spec/requests/animals_spec.rb:5[0m [36m# Animals GET /animals works! (now write some real specs)[0m
+[31mrspec ./spec/requests/friendly_forwardings_spec.rb:5[0m [36m# FriendlyForwardings GET /friendly_forwardings works! (now write some real specs)[0m
+[31mrspec ./spec/models/animal_spec.rb:15[0m [36m# Animal should create a new instance given valid attributes[0m
+[31mrspec ./spec/models/animal_spec.rb:19[0m [36m# Animal should require a name[0m
+[31mrspec ./spec/models/animal_spec.rb:24[0m [36m# Animal should require an email address[0m
+[31mrspec ./spec/models/animal_spec.rb:29[0m [36m# Animal should reject names that are too long[0m
+[31mrspec ./spec/models/animal_spec.rb:35[0m [36m# Animal should accept valid email addresses[0m
+[31mrspec ./spec/models/animal_spec.rb:43[0m [36m# Animal should reject invalid email addresses[0m
+[31mrspec ./spec/models/animal_spec.rb:50[0m [36m# Animal should reject duplicate email addresses[0m
+[31mrspec ./spec/models/animal_spec.rb:56[0m [36m# Animal should reject email addresses identical up to case[0m
+[31mrspec ./spec/models/animal_spec.rb:65[0m [36m# Animal password validations should require a password[0m
+[31mrspec ./spec/models/animal_spec.rb:70[0m [36m# Animal password validations should require a matching password confirmation[0m
+[31mrspec ./spec/models/animal_spec.rb:75[0m [36m# Animal password validations should reject short passwords[0m
+[31mrspec ./spec/models/animal_spec.rb:81[0m [36m# Animal password validations should reject long passwords[0m
+[31mrspec ./spec/models/animal_spec.rb:94[0m [36m# Animal password encryption should have an encrypted password attribute[0m
+[31mrspec ./spec/models/animal_spec.rb:97[0m [36m# Animal password encryption should set the encrypted password[0m
+[31mrspec ./spec/models/animal_spec.rb:104[0m [36m# Animal authenticate method should return nil on email/password mismatch[0m
+[31mrspec ./spec/models/animal_spec.rb:109[0m [36m# Animal authenticate method should return nil for an email address with no user[0m
+[31mrspec ./spec/models/animal_spec.rb:114[0m [36m# Animal authenticate method should return the user on email/password match[0m
+[31mrspec ./spec/models/animal_spec.rb:124[0m [36m# Animal has_password? method should be true if the passwords match[0m
+[31mrspec ./spec/models/animal_spec.rb:128[0m [36m# Animal has_password? method should be false if the passwords don't match[0m
+[31mrspec ./spec/models/animal_spec.rb:139[0m [36m# Animal admin attribute should respond to admin[0m
+[31mrspec ./spec/models/animal_spec.rb:143[0m [36m# Animal admin attribute should not be an admin by default[0m
+[31mrspec ./spec/models/animal_spec.rb:147[0m [36m# Animal admin attribute should be convertible to an admin[0m
+[31mrspec ./spec/models/user_spec.rb:15[0m [36m# User should create a new instance given valid attributes[0m
+[31mrspec ./spec/models/user_spec.rb:19[0m [36m# User should require a name[0m
+[31mrspec ./spec/models/user_spec.rb:24[0m [36m# User should require an email address[0m
+[31mrspec ./spec/models/user_spec.rb:29[0m [36m# User should reject names that are too long[0m
+[31mrspec ./spec/models/user_spec.rb:35[0m [36m# User should accept valid email addresses[0m
+[31mrspec ./spec/models/user_spec.rb:43[0m [36m# User should reject invalid email addresses[0m
+[31mrspec ./spec/models/user_spec.rb:50[0m [36m# User should reject duplicate email addresses[0m
+[31mrspec ./spec/models/user_spec.rb:56[0m [36m# User should reject email addresses identical up to case[0m
+[31mrspec ./spec/models/user_spec.rb:65[0m [36m# User password validations should require a password[0m
+[31mrspec ./spec/models/user_spec.rb:70[0m [36m# User password validations should require a matching password confirmation[0m
+[31mrspec ./spec/models/user_spec.rb:75[0m [36m# User password validations should reject short passwords[0m
+[31mrspec ./spec/models/user_spec.rb:81[0m [36m# User password validations should reject long passwords[0m
+[31mrspec ./spec/models/user_spec.rb:94[0m [36m# User password encryption should have an encrypted password attribute[0m
+[31mrspec ./spec/models/user_spec.rb:97[0m [36m# User password encryption should set the encrypted password[0m
+[31mrspec ./spec/models/user_spec.rb:104[0m [36m# User authenticate method should return nil on email/password mismatch[0m
+[31mrspec ./spec/models/user_spec.rb:109[0m [36m# User authenticate method should return nil for an email address with no user[0m
+[31mrspec ./spec/models/user_spec.rb:114[0m [36m# User authenticate method should return the user on email/password match[0m
+[31mrspec ./spec/models/user_spec.rb:124[0m [36m# User has_password? method should be true if the passwords match[0m
+[31mrspec ./spec/models/user_spec.rb:128[0m [36m# User has_password? method should be false if the passwords don't match[0m
+[31mrspec ./spec/models/user_spec.rb:139[0m [36m# User admin attribute should respond to admin[0m
+[31mrspec ./spec/models/user_spec.rb:143[0m [36m# User admin attribute should not be an admin by default[0m
+[31mrspec ./spec/models/user_spec.rb:147[0m [36m# User admin attribute should be convertible to an admin[0m
+[31mrspec ./spec/controllers/pages_controller_spec.rb:7[0m [36m# PagesController GET 'home' should be successful[0m
+[31mrspec ./spec/controllers/pages_controller_spec.rb:12[0m [36m# PagesController GET 'home' should have the right title[0m
+[31mrspec ./spec/controllers/pages_controller_spec.rb:20[0m [36m# PagesController GET 'contact' should be successful[0m
+[31mrspec ./spec/controllers/pages_controller_spec.rb:25[0m [36m# PagesController GET 'contact' should have the right title[0m
+[31mrspec ./spec/controllers/pages_controller_spec.rb:34[0m [36m# PagesController GET 'about' should be successful[0m
+[31mrspec ./spec/controllers/pages_controller_spec.rb:39[0m [36m# PagesController GET 'about' should have the right title[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:7[0m [36m# AnimalsController GET 'new' should be successful[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:11[0m [36m# AnimalsController GET 'new' should have the right title[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:22[0m [36m# AnimalsController GET 'index' for non-signed-in users should deny access[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:43[0m [36m# AnimalsController GET 'index' for signed-in users should have an element for each user[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:50[0m [36m# AnimalsController GET 'index' for signed-in users should paginate animals[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:62[0m [36m# AnimalsController GET 'index' for signed-in users should be successful[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:67[0m [36m# AnimalsController GET 'index' for signed-in users should have the right title[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:72[0m [36m# AnimalsController GET 'index' for signed-in users should have an element for animal user[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:91[0m [36m# AnimalsController GET 'show' should be successful[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:96[0m [36m# AnimalsController GET 'show' should find the right user[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:101[0m [36m# AnimalsController GET 'show' should have the right title[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:106[0m [36m# AnimalsController GET 'show' should include the user's name[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:128[0m [36m# AnimalsController POST 'create' failure should not create a animal[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:134[0m [36m# AnimalsController POST 'create' failure should have the right title[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:139[0m [36m# AnimalsController POST 'create' failure should render the 'new' page[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:149[0m [36m# AnimalsController POST 'create' failure success should create a species[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:157[0m [36m# AnimalsController POST 'create' failure success should redirect to the user show page[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:174[0m [36m# AnimalsController GET 'edit' should be successful[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:179[0m [36m# AnimalsController GET 'edit' should have the right title[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:202[0m [36m# AnimalsController PUT 'update' failure should render the 'edit' page[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:207[0m [36m# AnimalsController PUT 'update' failure should have the right title[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:220[0m [36m# AnimalsController PUT 'update' success should change the user's attributes[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:227[0m [36m# AnimalsController PUT 'update' success should redirect to the user show page[0m
+[31mrspec ./spec/controllers/animals_controller_spec.rb:232[0m [36m# AnimalsController PUT 'update' success should have a flash message[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:8[0m [36m# SessionsController GET 'new' should be successful[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:13[0m [36m# SessionsController GET 'new' should have the right title[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:28[0m [36m# SessionsController POST 'create' invalid signin should re-render the new page[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:33[0m [36m# SessionsController POST 'create' invalid signin should have the right title[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:38[0m [36m# SessionsController POST 'create' invalid signin should have a flash.now message[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:51[0m [36m# SessionsController POST 'create' with valid email and password should sign the user in[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:57[0m [36m# SessionsController POST 'create' with valid email and password should redirect to the user show page[0m
+[31mrspec ./spec/controllers/sessions_controller_spec.rb:68[0m [36m# SessionsController DELETE 'destroy' should sign a user out[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:9[0m [36m# UsersController GET 'index' for non-signed-in users should deny access[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:30[0m [36m# UsersController GET 'index' for signed-in users should have an element for each user[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:37[0m [36m# UsersController GET 'index' for signed-in users should paginate users[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:49[0m [36m# UsersController GET 'index' for signed-in users should be successful[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:54[0m [36m# UsersController GET 'index' for signed-in users should have the right title[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:59[0m [36m# UsersController GET 'index' for signed-in users should have an element for each user[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:78[0m [36m# UsersController GET 'show' should be successful[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:83[0m [36m# UsersController GET 'show' should find the right user[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:88[0m [36m# UsersController GET 'show' should have the right title[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:93[0m [36m# UsersController GET 'show' should include the user's name[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:98[0m [36m# UsersController GET 'show' should have a profile image[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:108[0m [36m# UsersController GET 'new' should be successful[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:112[0m [36m# UsersController GET 'new' should have the right title[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:127[0m [36m# UsersController POST 'create' failure should not create a user[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:133[0m [36m# UsersController POST 'create' failure should have the right title[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:138[0m [36m# UsersController POST 'create' failure should render the 'new' page[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:151[0m [36m# UsersController POST 'create' failure success should create a user[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:157[0m [36m# UsersController POST 'create' failure success should sign the user in[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:162[0m [36m# UsersController POST 'create' failure success should redirect to the user show page[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:167[0m [36m# UsersController POST 'create' failure success should have a welcome message[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:186[0m [36m# UsersController GET 'edit' should be successful[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:191[0m [36m# UsersController GET 'edit' should have the right title[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:196[0m [36m# UsersController GET 'edit' should have a link to change the Gravatar[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:220[0m [36m# UsersController PUT 'update' failure should render the 'edit' page[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:225[0m [36m# UsersController PUT 'update' failure should have the right title[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:238[0m [36m# UsersController PUT 'update' success should change the user's attributes[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:245[0m [36m# UsersController PUT 'update' success should redirect to the user show page[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:250[0m [36m# UsersController PUT 'update' success should have a flash message[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:266[0m [36m# UsersController authentication of edit/update pages for non-signed-in users should deny access to 'edit'[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:271[0m [36m# UsersController authentication of edit/update pages for non-signed-in users should deny access to 'update'[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:284[0m [36m# UsersController authentication of edit/update pages for signed-in users should require matching users for 'edit'[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:289[0m [36m# UsersController authentication of edit/update pages for signed-in users should require matching users for 'update'[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:304[0m [36m# UsersController DELETE 'destroy' as a non-signed-in user should deny access[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:311[0m [36m# UsersController DELETE 'destroy' as a non-admin user should protect the page[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:325[0m [36m# UsersController DELETE 'destroy' as an admin user should destroy the user[0m
+[31mrspec ./spec/controllers/users_controller_spec.rb:331[0m [36m# UsersController DELETE 'destroy' as an admin user should redirect to the users page[0m

@@ -17,7 +17,7 @@ SbicNaz::Application.routes.draw do
 
 
 
-  match '/signup',  :to => 'signup#new'
+
   match '/binatang', :to => 'animals#new'
   match '/signin',  :to => 'sessions#new'
   match '/signout', :to => 'sessions#destroy'
